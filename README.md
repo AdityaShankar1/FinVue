@@ -1,3 +1,8 @@
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 # FinVue 🚀
 FinVue is a high-performance, full-stack financial dashboard designed to track mutual fund investments with real-time analytics. Built using a Hexagonal (Ports & Adapters) Architecture to ensure robust separation of concerns and database portability.
 
